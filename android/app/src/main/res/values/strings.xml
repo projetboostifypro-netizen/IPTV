@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">IPTVApp</string>
+    <string name="title_activity_main">IPTVApp</string>
+    <string name="package_name">com.nanopay.iptvapp</string>
+    <string name="custom_url_scheme">com.nanopay.iptvapp</string>
+</resources>
